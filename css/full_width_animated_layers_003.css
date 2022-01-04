@@ -64,11 +64,7 @@
 .ps_control_bsquare .carousel-control-prev:hover,
 .ps_control_bsquare .carousel-control-next:hover{
  color: #fff;
-<<<<<<< HEAD
  background: #4479a3 ;
-=======
- background: #76CAE2;
->>>>>>> b57de67a0f0c81e8e5fb3d6f1a2fcc94828e4a47
 }
 .ps_control_bsquare .carousel-control-prev > span:nth-child(1){
  left: 45%;
@@ -120,11 +116,7 @@
   text-align: center;
   padding: 13px 35px;
   white-space: nowrap;
-<<<<<<< HEAD
   background-color: #4479a3 ;
-=======
-  background-color: #76CAE2;
->>>>>>> b57de67a0f0c81e8e5fb3d6f1a2fcc94828e4a47
   letter-spacing: 0px;
   display: inline-block;
   text-decoration: none;
